@@ -1,2 +1,2 @@
 # blog_img
-This repository has my blog images.
+The repository has my blog images.
